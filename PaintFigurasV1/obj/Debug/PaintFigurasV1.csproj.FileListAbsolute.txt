@@ -1,0 +1,11 @@
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\bin\Debug\PaintFigurasV1.exe.config
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\bin\Debug\PaintFigurasV1.exe
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\bin\Debug\PaintFigurasV1.pdb
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.csproj.AssemblyReference.cache
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.csproj.SuggestedBindingRedirects.cache
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.Form1.resources
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.Properties.Resources.resources
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.csproj.GenerateResource.cache
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.exe
+D:\Cristian\Documents\6to semestre\Graficacion\PaintFigurasV1\PaintFigurasV1\obj\Debug\PaintFigurasV1.pdb
